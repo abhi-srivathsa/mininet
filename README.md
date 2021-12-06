@@ -1,7 +1,7 @@
-##Homework 3
-COEN 241 Cloud Computing
-Task 1
-Questions
+###Homework 3
+##COEN 241 Cloud Computing
+#Task 1
+#Questions
 
 
 1.What is the output of “nodes” and “net”
